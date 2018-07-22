@@ -1,0 +1,42 @@
+_repo: Pride-and-Prejudice_1342
+_version: 0.2.2
+covers:
+- attribution: Tim Daniel, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1342#Pride-and-Prejudice
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Harvard Classics
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1342'
+language: en
+publication_date: '2015-08-01'
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
+subjects:
+- '!lcsh: Love stories'
+- '!lcc: PR'
+- '!lcsh: Domestic fiction'
+- '!lcsh: Young women -- Fiction'
+- '!lcsh: England -- Fiction'
+- '!lcsh: Social classes -- Fiction'
+- '!lcsh: Courtship -- Fiction'
+- '!lcsh: Sisters -- Fiction'
+- GITenberg
+title: Pride and Prejudice
+url: http://www.gutenberg.org/ebooks/1342
